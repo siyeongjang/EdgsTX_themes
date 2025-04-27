@@ -10,7 +10,7 @@ colors:
   PRIMARY1:   0x3A3328 # 텍스트: 짙은 갈색 (묵색 느낌)
   PRIMARY2:   0xF6F2E3 # 기본 배경: 밝은 한지색
   PRIMARY3:   0xE3DBC8 # 부드러운 베이지 보조 배경
-  SECONDARY1: 0x8E8472 # 연한 황토톤 강조
+  SECONDARY1: 0xA1956D # 연한 황토톤 강조
   SECONDARY2: 0xC7B497 # 보조 텍스트 배경
   SECONDARY3: 0xE8E0CD # 카드/버튼용 연베이지
   FOCUS:      0xA88454 # 강조: 황토+진한 갈색 계열
